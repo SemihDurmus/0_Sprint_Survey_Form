@@ -1,4 +1,4 @@
-https://semihdurmus.github.io/0_Sprint_Survey_Form/
+https://semihdurmus.github.io/Sprint_0_Survey_Form/
 
 
 
